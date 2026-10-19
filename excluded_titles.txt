@@ -1,0 +1,3 @@
+# Add exact RSS item titles to exclude, one per line.
+# Matching is case-sensitive.
+Kürtçe yazılı miras ve Rami’nin dönüşüm hikâyesi kitaplarda buluştu

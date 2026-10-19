@@ -1,0 +1,482 @@
+{
+  "sections": [
+    {
+      "id": 4,
+      "name": "Sanat ve Türleri",
+      "keywords": ["sanat ve türleri", "sanat türleri"]
+    },
+    {
+      "id": 5,
+      "name": "Genel Sanat",
+      "keywords": ["genel sanat"]
+    },
+    {
+      "id": 6,
+      "name": "El Sanatları",
+      "keywords": [
+        "el sanatları",
+        "el sanatı",
+        "hattat",
+        "hat sanatı",
+        "kaligrafi",
+        "tezhip",
+        "minyatür",
+        "ebru",
+        "çini",
+        "seramik",
+        "dokuma",
+        "zanaat",
+        "el işi"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Kültürel Sanatlar",
+      "keywords": [
+        "kültürel sanatlar",
+        "kültürel miras",
+        "kültürel mirasını",
+        "kültür mirası",
+        "somut olmayan kültürel miras",
+        "etnografya müzesi",
+        "kütüphane",
+        "kütüphaneler"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Mimari Sanatlar",
+      "keywords": [
+        "mimarlık",
+        "mimari",
+        "mimari yapı",
+        "mimari eser",
+        "mimari tasarım",
+        "restorasyon"
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Yöresel Sanatlar",
+      "keywords": [
+        "yöresel sanat",
+        "yöresel el sanatları",
+        "yerel sanat",
+        "halk sanatı",
+        "halk sanatları",
+        "yöresel kültür",
+        "geleneksel el sanatları"
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Tarihsel Sanatlar",
+      "keywords": [
+        "tarihsel sanat",
+        "sanat tarihi",
+        "antik sanat",
+        "antik kent",
+        "antik kenti",
+        "antik tiyatro",
+        "antik tiyatrosu",
+        "bizans",
+        "osmanlı",
+        "imparatorluk",
+        "antik mısır",
+        "tarihsel eser"
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Tiyatro ve Oyun Sanatları",
+      "keywords": [
+        "tiyatro festivali",
+        "İstanbul tiyatro festivali",
+        "tiyatro oyunu",
+        "tiyatro etkinliği",
+        "tiyatro etkinliklerinin",
+        "opera gösterisi",
+        "operanın",
+        "bale",
+        "baleden",
+        "balesi",
+        "bale eseri",
+        "dans",
+        "dansa",
+        "koreografi",
+        "koreografik",
+        "oyuncu",
+        "müzikal",
+        "sahne oyunu",
+        "opera sanatçısı",
+        "adlı oyun"
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Resim Sanatları",
+      "keywords": [
+        "resim sanatı",
+        "resim sergisi",
+        "1914 kuşağı",
+        "ressamlar",
+        "heykel sanatı",
+        "heykel sergisi",
+        "heykeltıraş",
+        "heykeltıraşlar",
+        "fotoğraf sanatı",
+        "fotoğraf sergisi",
+        "fotoğrafçı",
+        "fotoğraflarını",
+        "görsel sanat",
+        "bienal",
+        "bienali",
+        "ara güler"
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Endüstriyel Sanatlar",
+      "keywords": [
+        "endüstriyel sanat",
+        "endüstriyel tasarım",
+        "ürün tasarımı",
+        "grafik tasarım",
+        "moda tasarımı",
+        "tasarım sanatları"
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Diğer Sanatlar",
+      "keywords": ["diğer sanatlar", "sanatın diğer alanları"]
+    },
+    {
+      "id": 59,
+      "name": "Sanat Haberleri",
+      "keywords": [
+        "sanat haberleri",
+        "sanat haberi",
+        "kültür-sanat",
+        "sanat gündemi",
+        "sergi",
+        "sergisi",
+        "sergileri",
+        "sergiler",
+        "sergisini",
+        "sergisine",
+        "sergilenecek",
+        "konser",
+        "konserler",
+        "konserlerinde",
+        "konserlerine",
+        "konserle",
+        "konserlerde",
+        "konserlerinde",
+        "konserleri",
+        "konser verecek",
+        "festival",
+        "festivali",
+        "festivalleri",
+        "sanatsever",
+        "sanatseverlerle",
+        "sanatçı",
+        "sanatçılar",
+        "sanatçıyı",
+        "sanatçılarına",
+        "film",
+        "filmi",
+        "film festivali",
+        "vizyonda",
+        "sinema",
+        "sinema filmi",
+        "prömiyer",
+        "prömiyerini",
+        "atölye",
+        "atölyeleri",
+        "atölyelerinde",
+        "sanat atölyesi",
+        "orkestra",
+        "orkestraya",
+        "senfoni",
+        "piyanist",
+        "piyano resitali",
+        "oda müziğinin",
+        "virtüöz sanatçıları",
+        "müzisyenlere",
+        "Parlayan Yıldızlar",
+        "konser sezonu",
+        "Strauss Philharmonie",
+        "Concert Show",
+        "filarmoni",
+        "kültürel etkinlik"
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Edebiyat ve Türleri",
+      "keywords": ["edebiyat ve türleri", "edebiyat türleri"]
+    },
+    {
+      "id": 16,
+      "name": "Genel Edebiyat",
+      "keywords": [
+        "genel edebiyat",
+        "kitap",
+        "kitaplar",
+        "kitaplarının",
+        "kitaplarda",
+        "kitap serisi",
+        "edebiyat dünyası"
+      ]
+    },
+    {
+      "id": 17,
+      "name": "Nazım",
+      "keywords": ["nazım", "nazım biçimi", "nazım türleri"]
+    },
+    {
+      "id": 18,
+      "name": "Şiir",
+      "keywords": ["şiir", "şiir kitabı", "şair", "şiirleri", "şiirler", "şairi"]
+    },
+    {
+      "id": 19,
+      "name": "Destan",
+      "keywords": ["destan", "destanı", "destanları", "epik destan"]
+    },
+    {
+      "id": 20,
+      "name": "Ağıt",
+      "keywords": ["ağıt", "ağıtlar", "mersiye"]
+    },
+    {
+      "id": 21,
+      "name": "Mesnevi",
+      "keywords": ["mesnevi"]
+    },
+    {
+      "id": 22,
+      "name": "Eleji",
+      "keywords": ["eleji", "elegy"]
+    },
+    {
+      "id": 23,
+      "name": "Nesir",
+      "keywords": ["nesir", "düzyazı", "düz yazı"]
+    },
+    {
+      "id": 24,
+      "name": "Roman",
+      "keywords": [
+        "roman",
+        "romanı",
+        "romanları",
+        "romancı",
+        "roman türü",
+        "roman kitabı"
+      ]
+    },
+    {
+      "id": 25,
+      "name": "Öykü",
+      "keywords": [
+        "öykü",
+        "öyküsü",
+        "öyküler",
+        "öykülere",
+        "hikâye",
+        "hikâyesi",
+        "hikâyeler",
+        "hikâyelere",
+        "hikayesi",
+        "hikayeler",
+        "hikayelere",
+        "öykü kitabı",
+        "hikâye kitabı",
+        "hikaye kitabı"
+      ]
+    },
+    {
+      "id": 26,
+      "name": "Masal",
+      "keywords": ["masal", "masalı", "masallar", "masallarını"]
+    },
+    {
+      "id": 27,
+      "name": "Tiyatro",
+      "keywords": [
+        "tiyatro metni",
+        "tiyatro yazarı",
+        "dramatik metin",
+        "tiyatro edebiyatı"
+      ]
+    },
+    {
+      "id": 28,
+      "name": "Deneme",
+      "keywords": ["deneme", "denemesi", "denemeler", "deneme yazısı"]
+    },
+    {
+      "id": 29,
+      "name": "Fıkra",
+      "keywords": ["fıkra", "fıkralar", "nükte", "anekdot"]
+    },
+    {
+      "id": 30,
+      "name": "Makale",
+      "keywords": ["makale", "makalesi", "makaleler", "akademik makale"]
+    },
+    {
+      "id": 31,
+      "name": "Eleştiri",
+      "keywords": [
+        "eleştiri",
+        "edebiyat eleştirisi",
+        "kitap eleştirisi",
+        "eleştirmen",
+        "tenkit"
+      ]
+    },
+    {
+      "id": 32,
+      "name": "Biyografi",
+      "keywords": [
+        "biyografi",
+        "biyografisi",
+        "biyografik",
+        "hayatını konu alan",
+        "yaşam öyküsü",
+        "hayat hikâyesi",
+        "hayat hikayesi"
+      ]
+    },
+    {
+      "id": 33,
+      "name": "Otobiyografi",
+      "keywords": ["otobiyografi", "öz yaşam öyküsü", "kendi yaşamı"]
+    },
+    {
+      "id": 34,
+      "name": "Anı",
+      "keywords": [
+        "anı",
+        "anılar",
+        "anı kitabı",
+        "hatırat",
+        "hatıra defteri",
+        "hatıra kitabı"
+      ]
+    },
+    {
+      "id": 35,
+      "name": "Gezi Yazısı",
+      "keywords": [
+        "gezi yazısı",
+        "gezi yazıları",
+        "seyahat yazısı",
+        "seyahatname",
+        "gezi notları"
+      ]
+    },
+    {
+      "id": 36,
+      "name": "Mizah",
+      "keywords": ["mizah", "mizahi", "hiciv", "karikatür", "satirik"]
+    },
+    {
+      "id": 37,
+      "name": "Edebi Destan",
+      "keywords": ["edebi destan", "edebî destan"]
+    },
+    {
+      "id": 38,
+      "name": "Sohbet",
+      "keywords": ["sohbet", "edebî sohbet"]
+    },
+    {
+      "id": 39,
+      "name": "Sözlü Anlatım",
+      "keywords": ["sözlü anlatım", "sözlü edebiyat", "sözlü sunum"]
+    },
+    {
+      "id": 40,
+      "name": "Söylev",
+      "keywords": ["söylev", "nutuk", "hitabet"]
+    },
+    {
+      "id": 41,
+      "name": "Mülakat",
+      "keywords": ["mülakat", "mülakatlar", "sözlü görüşme"]
+    },
+    {
+      "id": 42,
+      "name": "Röportaj",
+      "keywords": ["röportaj", "röportajı", "röportajlar"]
+    },
+    {
+      "id": 43,
+      "name": "Sempozyum",
+      "keywords": ["sempozyum", "sempozyumu", "edebiyat sempozyumu"]
+    },
+    {
+      "id": 44,
+      "name": "Forum",
+      "keywords": ["edebiyat forumu", "forum tartışması"]
+    },
+    {
+      "id": 45,
+      "name": "Münazara",
+      "keywords": ["münazara", "münazara yarışması"]
+    },
+    {
+      "id": 46,
+      "name": "Konferans",
+      "keywords": ["konferans", "konferanslar", "edebiyat konferansı"]
+    },
+    {
+      "id": 47,
+      "name": "Edebiyat Çeşitleri",
+      "keywords": ["edebiyat çeşitleri", "edebi türler", "edebî türler"]
+    },
+    {
+      "id": 48,
+      "name": "Fantastik Edebiyat",
+      "keywords": ["fantastik edebiyat", "fantastik kurgu", "fantastik roman"]
+    },
+    {
+      "id": 49,
+      "name": "Gotik Edebiyat",
+      "keywords": ["gotik edebiyat", "gotik kurgu", "gotik roman"]
+    },
+    {
+      "id": 50,
+      "name": "İktisadi Edebiyat",
+      "keywords": ["iktisadi edebiyat", "ekonomi romanı", "iktisat romanı"]
+    },
+    {
+      "id": 51,
+      "name": "Divan Edebiyatı",
+      "keywords": ["divan edebiyatı", "divan şiiri"]
+    },
+    {
+      "id": 52,
+      "name": "Varoluşçu Edebiyat",
+      "keywords": ["varoluşçu edebiyat", "varoluşçu roman", "varoluşçuluk"]
+    },
+    {
+      "id": 53,
+      "name": "Post Modern Edebiyat",
+      "keywords": [
+        "post modern edebiyat",
+        "postmodern edebiyat",
+        "postmodern roman"
+      ]
+    },
+    {
+      "id": 54,
+      "name": "Diğer Edebiyatlar",
+      "keywords": ["diğer edebiyatlar", "diğer edebiyat"]
+    }
+  ]
+}
