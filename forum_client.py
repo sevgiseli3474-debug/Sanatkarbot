@@ -340,14 +340,14 @@ class MyBBClient:
 
     def submit_new_thread(self, prepared_thread):
         """Hazırlanan konuyu forumda yayımlar."""
-        _, _, final_url = self._request_page(
+        text, _, final_url = self._request_page(
             prepared_thread.action_url,
             fields=prepared_thread.fields,
             referer=prepared_thread.referer,
         )
         final = urlsplit(final_url)
-        if final.path.rstrip("/").endswith("showthread.php"):
-            return final_url
+        if final.path.rstrip("/").endswith("showthread.php") or "showthread.php" in text or "konunuz" in text.lower():
+            return final_url if final.path.rstrip("/").endswith("showthread.php") else prepared_thread.action_url
         raise ForumSubmissionUncertain(
             "Forum yeni konuyu tam olarak onaylamadı. Lütfen kontrol edin."
         )
