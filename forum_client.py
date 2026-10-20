@@ -339,12 +339,18 @@ class MyBBClient:
         )
 def submit_new_thread(self, prepared_thread):
         """Hazırlanan konuyu forumda yayımlar."""
+        # Botun gönderdiği alanları ve URL'yi loglarda görelim
+        print(f"--- GÖNDERİLEN URL: {prepared_thread.action_url} ---")
+        print(f"--- GÖNDERİLEN ALANLAR: {prepared_thread.fields} ---")
+
         text, _, final_url = self._request_page(
             prepared_thread.action_url,
             fields=prepared_thread.fields,
             referer=prepared_thread.referer,
         )
         final = urlsplit(final_url)
+        print(f"--- DÖNEN SONUÇ URL: {final_url} ---")
+
         if final.path.rstrip("/").endswith("showthread.php") or "showthread.php" in text or "konunuz" in text.lower():
             return final_url if final.path.rstrip("/").endswith("showthread.php") else prepared_thread.action_url
         raise ForumSubmissionUncertain(
