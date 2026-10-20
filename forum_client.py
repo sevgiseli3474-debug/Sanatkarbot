@@ -355,4 +355,4 @@ def submit_new_thread(self, prepared_thread):
             return final_url if final.path.rstrip("/").endswith("showthread.php") else prepared_thread.action_url
         raise ForumSubmissionUncertain(
             "Forum yeni konuyu tam olarak onaylamadı. Lütfen kontrol edin."
-        )
+    )
