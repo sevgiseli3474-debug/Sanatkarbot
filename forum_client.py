@@ -332,14 +332,15 @@ class MyBBClient:
         fields = _set_form_field(fields, "action", "do_newthread")
         fields = _set_form_field(fields, "subject", title.strip())
         fields = _set_form_field(fields, "message", message.strip())
+        fields = _set_form_field(fields, "submit", "Konuyu Gönder")
         return PreparedThread(
             action_url=action_url,
             fields=fields,
             referer=final_url,
         )
-def submit_new_thread(self, prepared_thread):
+
+    def submit_new_thread(self, prepared_thread):
         """Hazırlanan konuyu forumda yayımlar."""
-        # Botun gönderdiği alanları ve URL'yi loglarda görelim
         print(f"--- GÖNDERİLEN URL: {prepared_thread.action_url} ---")
         print(f"--- GÖNDERİLEN ALANLAR: {prepared_thread.fields} ---")
 
