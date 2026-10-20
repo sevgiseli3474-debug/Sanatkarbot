@@ -351,9 +351,10 @@ class MyBBClient:
         )
         final = urlsplit(final_url)
         print(f"--- DÖNEN SONUÇ URL: {final_url} ---")
+        print(f"--- DÖNEN SAYFA İÇERİĞİ (ÖZET): {text[:300]} ---")
 
         if final.path.rstrip("/").endswith("showthread.php") or "showthread.php" in text or "konunuz" in text.lower():
             return final_url if final.path.rstrip("/").endswith("showthread.php") else prepared_thread.action_url
         raise ForumSubmissionUncertain(
             "Forum yeni konuyu tam olarak onaylamadı. Lütfen kontrol edin."
-    )
+        )
